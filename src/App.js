@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <h1>Hello StackBlitz!</h1>
       <p>Data communication between components</p>
-      <ParentA />
+      {/* <ParentA /> */}
     </div>
   );
 }

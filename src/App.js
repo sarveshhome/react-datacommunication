@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import ParentA from "../src/Parent/Parent";
+import ExportItem from "./components/ExpenseItem";
 export default function App() {
   return (
     <div>

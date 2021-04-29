@@ -1,5 +1,5 @@
 import React from "react";
-import ChildA from "../../ChildA";
+import { ChildA } from "./ChildA";
 
 class ParentA extends React.Component {
   constructor(props) {
@@ -25,4 +25,4 @@ class ParentA extends React.Component {
     );
   }
 }
-export default ParentA;
+export { ParentA };

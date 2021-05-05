@@ -18,4 +18,4 @@ class ChildA extends React.Component {
   }
 }
 
-export { ChildA };
+export default ChildA;

@@ -8,6 +8,7 @@ export default function App() {
       <h1>Hello StackBlitz!</h1>
       <p>Data communication between components</p>
       <ParentA />
+      
     </div>
   );
 }

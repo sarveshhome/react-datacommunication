@@ -1,5 +1,5 @@
 import React from "react";
-import { ChildA } from "./ChildA";
+import { ChildA } from "./Child/Child";
 
 class ParentA extends React.Component {
   constructor(props) {
